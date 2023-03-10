@@ -1,2 +1,3 @@
 # Portfolio
-##Resumen de los comandos aprendidos durante la unidad
+## Resumen de los comandos más importantes aprendidos durante la unidad
+### 
