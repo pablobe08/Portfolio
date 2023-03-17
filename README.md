@@ -7,7 +7,7 @@
 * Puntos positivos: a diferencia del primer tema, las consultas totales las he entendido bien, además, como este tema aplica el temario anterior, me ha servido para entender mejor el tema de las consultas básicas.
 * Puntos en contra: me ha sido muy difícil aprender el primer tema debido a la cantidad de "clausulas" que este tiene, y la infinidad de combinaciones que se pueden hacer con ellas.
 ## Ejercicios significativos
-![](imagenes/ejercicio1gbd.png)
+![](gbd/ej1gbd.png)
 ## Ejercicios de invención propia
 
 ## Conclusiones
