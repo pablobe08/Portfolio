@@ -9,13 +9,13 @@
 ## Ejercicios significativos
 #### Ejercicio 5 de la práctica de geografía
 ![](gbd/ej1gbd.png)
-### Ejercicio 11 práctica toros
+#### Ejercicio 11 práctica toros
 ![](gbd/ej2gbd.png)
-### 
+#### Ejercicio 10 práctica toros 
 ![](gbd/ejercicio3gbd.png)
-###
+####
 ![](gbd/ejercicio4gbd.png)
-###
+####
 ![](gbd/ejercicio5gbd.png)
 ## Ejercicios de invención propia
 
