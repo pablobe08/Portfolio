@@ -27,6 +27,6 @@
 #### En este ejercicio sacaremos quién es el jugador más veterano de la liga y en que equipo juega
 ![](gbd/ejpropiogbd.png)
 #### Por contraparte, ahora sacaremos el jugador más joven de la liga ¡Y hay sorpresa!. Es un jugador que nisiquiera ha nacido todavía.
-
+![](gbd/ejpropio2gbd.png)
 ## Conclusiones
 #### Respecto a estos dos temas dados, podemos dar ciertas conclusiones, como principales dificultades he encontrado, como ya he mencionado antes, la complejidad de aprenderse todas las combinaciones que se pueden hacer con las funciones, además de tener claro como completar ciertos ejercicios. Lo que más me ha gustado es poder realizar las consultas que nosotros queramos y con el formato que nosotros querameos.
