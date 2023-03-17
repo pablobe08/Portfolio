@@ -13,9 +13,9 @@
 ![](gbd/ej2gbd.png)
 #### Ejercicio 10 práctica toros 
 ![](gbd/ejercicio3gbd.png)
-####
+#### Ejercicio 5 práctica estudios
 ![](gbd/ejercicio4gbd.png)
-####
+#### Ejercicio 3 práctica estudios
 ![](gbd/ejercicio5gbd.png)
 ## Ejercicios de invención propia
 
