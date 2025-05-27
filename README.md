@@ -1,7 +1,7 @@
 # Portfolio
 ## Índice:
 - Resumen del trimestre
-- Refleciones personales
+- Reflexiones personales
 - Ejercicios significativos
 - Ejercicios de invención propia
 - Conclusiones
